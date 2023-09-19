@@ -1,0 +1,12 @@
+# Laravel
+- [ ] Laravel Installation
+- [ ] Directory structure
+- [ ] Routing
+- [ ] Middleware
+- [ ] Controller
+- [ ] Request
+- [ ] Response
+- [ ] Views
+- [ ] Blade Templates
+- [ ] Eloquent ORM/Model
+- [ ] Authentication
